@@ -10,6 +10,7 @@ namespace DataTypes
     {
         static void Main(string[] args)
         {
+            //hüseyinin bilgisayarından değiştirildi
             //Değer Tipleri ram'in stack bölgesinde tutulurken, Referans Tipleri heap bölgesinde tutulmaktadır.
             //Değer tipleri veriyi tutan değişken türleridir. Referans türleri ise veri yerine verinin bellekteki adresini tutan değişken türleridir!!!
             #region Değer Tipleri(Value Type)
